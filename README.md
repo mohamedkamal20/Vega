@@ -1,3 +1,3 @@
 # Vega
-Vega car project to try API with angular 2
+Vega car project to try Web API with angular 2
 
